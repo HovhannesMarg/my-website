@@ -5,7 +5,8 @@ asesome website
 
 new edit
 updated locally
+## Repository Purpose
 
-## Repository purpose
-
-this is change that conflicts
+this file is a readme file
+osidfosidosi
+sdpspoidis
